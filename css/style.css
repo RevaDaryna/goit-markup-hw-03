@@ -140,7 +140,7 @@ li {
 .footer-tel:hover,
 .footer-e-mail:hover,
 .footer-address:hover {
-  color: #2196F3;
+  color: var(--color-bg-action);
   cursor: pointer;
 }
 
@@ -150,7 +150,7 @@ li {
 .footer-tel:focus,
 .footer-e-mail:focus,
 .footer-address:focus {
-  color: #2196F3;
+  color: var(--color-bg-action);
   cursor: pointer;
 }
 
